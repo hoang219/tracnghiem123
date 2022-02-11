@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity(), OnClickListener {
                     Log.d("Hoang", "#chooseAnswer3")
                 }
                 binding.tvAnswer4.id -> {
-                    binding.tvAnswer2.setBackgroundResource(R.drawable.bg_orange_30dp)
+                    binding.tvAnswer4.setBackgroundResource(R.drawable.bg_orange_30dp)
                     checkAnswer(binding.tvAnswer4, 4)
                     Log.d("Hoang", "#chooseAnswer4")
                 }

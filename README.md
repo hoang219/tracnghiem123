@@ -6,6 +6,7 @@
   - Hết 5 câu hỏi lần tham gia trắc nghiệm đó sẽ kết thúc và người dùng sẽ có quyền chọn làm lại (Với danh sách câu hỏi ngẫu nhiên khác) hoặc thoát ra
   - Ứng dụng sẽ lưu lại kết quả lần tham gia sau khi người dùng hoàn thành bài làm (Tên môn - Thời gian kết thúc - Điểm số)
 2. Công nghệ sử dụng:
+  - Sử dụng ngôn ngữ lập trình Kotlin
   - Xây dựng theo mô hình MVC
   - Sử dụng ListView cơ bản để hiển thị lịch sử tham gia
   - Sử dụng SQLite để lưu trữ dữ liệu câu hỏi và lịch sử tham gia
